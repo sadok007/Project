@@ -1,0 +1,18 @@
+.img{
+    background-image: url(src/assets/img/gif-qr-code.gif); 
+    background-repeat: no-repeat;
+ 
+   
+}
+
+
+.h1{
+    color:rgb(21, 154, 90);
+    text-align: center;
+}
+.form-control.ng-touched.ng-invalid {
+    border:1px solid red;
+   }
+   .form-control.ng-touched.ng-valid {
+    border:1px solid green;
+   }

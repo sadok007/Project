@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98.574" height="19" viewBox="0 0 98.574 19">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.499" r="0.5" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e406cf"/>
+      <stop offset="1" stop-color="#2e35dd"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" y1="0.5" x2="0.999" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.161" stop-color="#d10bd0"/>
+      <stop offset="0.258" stop-color="#c910d1"/>
+      <stop offset="0.337" stop-color="#bb17d2"/>
+      <stop offset="0.408" stop-color="#a622d4"/>
+      <stop offset="0.472" stop-color="#8c30d7"/>
+      <stop offset="0.533" stop-color="#6c41da"/>
+      <stop offset="0.588" stop-color="#4654de"/>
+      <stop offset="0.632" stop-color="#2367e1"/>
+      <stop offset="0.765" stop-color="#2658e0"/>
+      <stop offset="1" stop-color="#2e35dd"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.499" r="0.614" gradientTransform="translate(0.147) scale(0.706 1)" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="smart-scan" transform="translate(-1 -1.087)">
+    <g id="Group_1" data-name="Group 1">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="2.14" height="2.14" transform="translate(13.22 15.09)" fill="#2e35dd"/>
+      <path id="Path_6" data-name="Path 6" d="M11.73,1.65V6.77h5.12V1.65Zm4.54,4.53H12.31V2.22h3.96Z" fill="url(#radial-gradient)"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="2.14" height="2.14" transform="translate(13.22 3.13)" fill="#2e35dd"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="2.14" height="2.14" transform="translate(2.49 2.86)" fill="#2e35dd"/>
+      <path id="Path_7" data-name="Path 7" d="M13.49,9.24H11.97V8.26H7.4V6.47h3.25V4.68H6.12V1.38H1V6.5H4.29V8.28H7.4v1.79h4.58v3.54h-.24v.04H10.45v1.79H5.81v1.79h5.93v1.49h5.12V13.6H13.51V9.24ZM5.54,5.91H1.58V1.95H5.54ZM16.27,18.14H12.31V14.18h3.96Z" fill="url(#linear-gradient)"/>
+      <path id="Path_8" data-name="Path 8" d="M4.25,10.06V8.27H2.7v5.44h7.71v-1.8H4.22V10.06Z" fill="url(#radial-gradient-2)"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="1.56" height="1.79" transform="translate(2.7 15.43)" fill="#2e35dd"/>
+    </g>
+    <text id="Smart_Scan" data-name="Smart Scan" transform="translate(21.574 15.087)" fill="#fff" font-size="13.123" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Smart Scan</tspan></text>
+  </g>
+</svg>

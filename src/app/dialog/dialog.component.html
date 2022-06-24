@@ -1,0 +1,61 @@
+<h1 mat-dialog-title>Add Employee</h1>
+<div mat-dialog-content>
+     <form [formGroup]="employeeForm"> 
+        <mat-form-field appearance="outline">
+            <mat-label>FirstName:</mat-label>
+            <input formControlName="firstname" matInput placeholder="firstname of the employee">
+            
+        </mat-form-field>
+        <mat-form-field appearance="outline">
+            <mat-label>LastName</mat-label>
+            <input formControlName="lastname" matInput placeholder="lastname of the Employee">
+            
+        </mat-form-field>
+        <mat-form-field appearance="outline">
+            <mat-label>Email</mat-label>
+            <input formControlName="email" matInput placeholder="email employee">
+            
+        </mat-form-field>
+        <mat-form-field appearance="outline">
+            <mat-label>PhoneNo</mat-label>
+            <input formControlName="phonenumber" matInput placeholder="Phone number of the employee">
+            
+        </mat-form-field>
+        <mat-form-field appearance="outline">
+            <mat-label>Departement</mat-label>
+            <mat-select formControlName="departement" placeholder="departement">
+                <mat-option value="Marketing">Marketing</mat-option>
+                <mat-option value="Finance">Finance</mat-option>
+                <mat-option value="Informatic">Informatic</mat-option>
+                <mat-option value="Electronics">Electronics</mat-option>
+                <mat-option value="HR">HR</mat-option>
+            </mat-select>
+        </mat-form-field>
+        
+        <mat-form-field appearance="outline">
+            <mat-label>Start_at</mat-label>
+            <input formControlName="start" matInput placeholder="Start_at">
+            
+        </mat-form-field>
+        
+        <mat-form-field appearance="outline">
+            <mat-label>Leave_at</mat-label>
+            <input formControlName="leave" matInput placeholder="Leave_at">
+        
+        </mat-form-field>
+        <label for=""><h1>Statut</h1></label>
+        <mat-radio-group formControlName="Statut" class="example-radio-group">
+             <mat-radio-button style="padding-bottom: 25px;" class="example-radio-button" *ngFor="let statut of statutList" [value]="statut">
+                {{statut}}
+            </mat-radio-button>
+        </mat-radio-group> 
+     </form> 
+    
+
+ </div>
+<div mat-dialog-action [align]="'end'">
+    <button mat-raised-button color="warn" mat-dialog-close>Close</button>
+    <button style="margin-left: 8px;" mat-raised-button color="primary"   (click)="addEmployee()">{{actionBtn}}</button>
+
+
+</div> 

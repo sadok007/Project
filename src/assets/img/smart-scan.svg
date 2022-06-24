@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 20.47" style="enable-background:new 0 0 100 20.47;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2E35DD;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{fill:url(#SVGID_3_);}
+	.st4{font-family:'Poppins-SemiBold';}
+	.st5{font-size:13.1233px;}
+</style>
+<g>
+	<rect x="13.22" y="15.09" class="st0" width="2.14" height="2.14"/>
+	<radialGradient id="SVGID_1_" cx="14.2887" cy="4.2037" r="2.5577" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#E406CF"/>
+		<stop  offset="1" style="stop-color:#2E35DD"/>
+	</radialGradient>
+	<path class="st1" d="M11.73,1.65v5.12h5.12V1.65H11.73z M16.27,6.18h-3.96V2.22h3.96V6.18z"/>
+	<rect x="13.22" y="3.13" class="st0" width="2.14" height="2.14"/>
+	<rect x="2.49" y="2.86" class="st0" width="2.14" height="2.14"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="1" y1="10.0435" x2="16.8464" y2="10.0435">
+		<stop  offset="0" style="stop-color:#D40AD0"/>
+		<stop  offset="0.1609" style="stop-color:#D10BD0"/>
+		<stop  offset="0.2576" style="stop-color:#C910D1"/>
+		<stop  offset="0.3374" style="stop-color:#BB17D2"/>
+		<stop  offset="0.408" style="stop-color:#A622D4"/>
+		<stop  offset="0.4725" style="stop-color:#8C30D7"/>
+		<stop  offset="0.5326" style="stop-color:#6C41DA"/>
+		<stop  offset="0.5881" style="stop-color:#4654DE"/>
+		<stop  offset="0.6317" style="stop-color:#2367E1"/>
+		<stop  offset="0.7651" style="stop-color:#2658E0"/>
+		<stop  offset="1" style="stop-color:#2E35DD"/>
+	</linearGradient>
+	<path class="st2" d="M13.49,9.24h-1.52V8.26H8.92H8.86H7.4V6.47h1.46h1.79V4.68H8.86H6.12v-3.3H1v5.12h3.29v1.78H7.4v1.79h1.46
+		h0.07h3.05v3.54h-0.24v0.04h-1.29v1.79H5.81v1.79h4.64h1.29v1.49h5.12V13.6h-3.35V9.24z M5.54,5.91H1.58V1.95h3.96V5.91z
+		 M16.27,18.14h-3.96v-3.96h3.96V18.14z"/>
+	<radialGradient id="SVGID_3_" cx="6.554" cy="10.987" r="3.3379" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#E406CF"/>
+		<stop  offset="1" style="stop-color:#2E35DD"/>
+	</radialGradient>
+	<polygon class="st3" points="4.25,10.06 4.25,8.27 2.7,8.27 2.7,10.05 2.7,10.06 2.7,11.91 2.7,13.12 2.7,13.71 10.41,13.71 
+		10.41,11.91 4.22,11.91 4.22,10.06 	"/>
+	<rect x="2.7" y="15.43" class="st0" width="1.56" height="1.79"/>
+</g>
+<text transform="matrix(1 0 0 1 21.5737 15.0867)" class="st0 st4 st5">Smart Scan</text>
+</svg>

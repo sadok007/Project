@@ -1,0 +1,35 @@
+{
+  "EmployeeList": [
+    {
+      "firstname": "Sadok",
+      "lastname": "Sassi",
+      "email": "sadoksassi2@gmail.com",
+      "phonenumber": "58412527",
+      "departement": "Informatic",
+      "start": "01/03/2022",
+      "leave": "17/06/2022",
+      "Statut": "Intern",
+      "id": 1
+    },
+    {
+      "firstname": "Roua",
+      "lastname": "Mechleoui",
+      "email": "roua@gmail.com",
+      "phonenumber": "56257992",
+      "departement": "Electronics",
+      "start": "01/03/2022",
+      "leave": "05/06/2023",
+      "Statut": "Employee",
+      "id": 2
+    },
+    {
+      "id": 3
+    }
+  ],
+  "LoginList": [
+    {
+      "email": "sadoksassi2@gmail.com",
+      "password": "15011037"
+    }
+  ]
+}

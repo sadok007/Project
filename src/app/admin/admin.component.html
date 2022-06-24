@@ -1,0 +1,43 @@
+
+	
+	
+	 
+	
+	<div class="container">
+		<div class="img">
+			<img src="../assets/img/pg2.jpg">
+		</div>
+		
+		<div class="login-content">
+			<form [formGroup]="loginForm"  (ngSubmit)="login()">
+         <img src="../assets/img/avatar.png">
+		  
+<h2 class="title">Welcome</h2>
+
+<div class="input-div one">
+<div class="i">
+<i class="fas fa-user"></i></div>
+
+<div class="div">
+	
+        <input type="text" class="input"name="email" formControlName="email" placeholder="email" id="user">
+	<i class="fa fa-time p_times"></i>
+	<i class="fa fa-check p_check"></i>
+	</div></div>
+           		<div class="input-div pass">
+           		   <div class="i"> 
+           		    	<i class="fas fa-lock"></i>
+           		   </div>
+           		   <div class="div">
+           		    	
+						   <input type="password" class="input"name="password" formControlName="password" placeholder="Password" id="pass"> </div></div>
+
+            	<a href="#">Forgot Password?</a>
+
+            	<input style="background-color: #2367E1;
+				width: 70%;
+				color: white;
+				border-radius: 5px;
+				cursor: pointer; padding: 8px;border: none ;" type="submit"  name="login-btn" value="Login">
+				
+
